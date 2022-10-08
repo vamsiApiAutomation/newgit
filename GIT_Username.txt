@@ -1,0 +1,28 @@
+
+GIT Username 
+vamsi4selenium@gmail.com
+@vamsiApiAutomation
+
+pwd:Rnh7817$
+
+vamsiApiautomation
+
+https://github.com/vamsiApiAutomation/newgit.git
+
+Commands:
+=================================================================================
+
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/vamsiApiAutomation/newgit.git
+git push -u origin main
+
+
+or push an existing repository from the command line
+git remote add origin https://github.com/vamsiApiAutomation/newgit.git
+git branch -M main
+git push -u origin main
+
